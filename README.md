@@ -4,7 +4,7 @@ This is a simple 📅 todo-app, completely responsive made by html, css and java
 <br>
 Hope you will like it 😊
 
-You can view live here: https://shivam171.github.io/Todo-App/
+You can view live here: https://ankitab78.github.io/To-Do-List-app/
 
 <img src = "td.png">
 <img src = "td1.png">
