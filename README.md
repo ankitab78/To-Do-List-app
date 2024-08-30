@@ -1,2 +1,10 @@
-# To-Do-List-
-A clean and user-friendly Todo web app built with HTML, CSS, and JavaScript. Stay organized and manage your tasks effortlessly with its intuitive design and two customizable themes. Simplify your task management workflow with this efficient and visually appealing application.  
+
+# Todo-App
+This is a simple 📅 todo-app, completely responsive made by html, css and javascript only. It has 2 themes also.
+<br>
+Hope you will like it 😊
+
+You can view live here: https://shivam171.github.io/Todo-App/
+
+<img src = "td.png">
+<img src = "td1.png">
